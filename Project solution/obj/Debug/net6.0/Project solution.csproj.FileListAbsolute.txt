@@ -1,0 +1,15 @@
+E:\Development\GeekBrains\Final test work\Project solution\bin\Debug\net6.0\Project solution.exe
+E:\Development\GeekBrains\Final test work\Project solution\bin\Debug\net6.0\Project solution.deps.json
+E:\Development\GeekBrains\Final test work\Project solution\bin\Debug\net6.0\Project solution.runtimeconfig.json
+E:\Development\GeekBrains\Final test work\Project solution\bin\Debug\net6.0\Project solution.dll
+E:\Development\GeekBrains\Final test work\Project solution\bin\Debug\net6.0\Project solution.pdb
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.csproj.AssemblyReference.cache
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.AssemblyInfoInputs.cache
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.AssemblyInfo.cs
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.csproj.CoreCompileInputs.cache
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.dll
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\refint\Project solution.dll
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.pdb
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\Project solution.genruntimeconfig.cache
+E:\Development\GeekBrains\Final test work\Project solution\obj\Debug\net6.0\ref\Project solution.dll
